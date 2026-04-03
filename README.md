@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me
-I’m Magesh, a Cybersecurity student with a strong interest in **network security, ethical hacking, and system protection**.
+I’m Magesh, a Cybersecurity student with a strong interest in network security, ethical hacking, and system protection.
 
 - 🔍 Exploring vulnerabilities & security mechanisms  
 - 🛡️ Passionate about penetration testing & SOC  
@@ -15,8 +15,8 @@ I’m Magesh, a Cybersecurity student with a strong interest in **network securi
 
 ## 🌐 Socials
 <p>
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/magesh-k-2a1183327/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:magesh2007z@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
@@ -59,6 +59,14 @@ I’m Magesh, a Cybersecurity student with a strong interest in **network securi
 
 ## 🔥 Featured Projects
 
+###  SERVICE 1
+- Unified government e-service applying portal
+- Main goal: availability and ease of use
+
+###  C-TRACE
+- A SaaS application to control and monitor industry's carbon emission
+- continuous tracking and provisde AI insights reduce such CO2e
+
 ### 🔐 Website Vulnerability Analyzer
 - Detects vulnerabilities like XSS, SQL Injection  
 - Built using web scanning techniques  
@@ -67,9 +75,7 @@ I’m Magesh, a Cybersecurity student with a strong interest in **network securi
 - Detects ARP spoofing attacks  
 - Network monitoring using Python  
 
-### 🔑 Password Strength Checker
-- Evaluates password security in real-time  
-- Web-based application  
+ 
 
 ---
 
