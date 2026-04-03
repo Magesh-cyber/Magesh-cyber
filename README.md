@@ -87,8 +87,8 @@ I’m Magesh, a Cybersecurity student with a strong interest in network security
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: YOUR_LINK  
-- 📧 Email: YOUR_EMAIL  
+- 💼 LinkedIn: https://www.linkedin.com/in/magesh-k-2a1183327/  
+- 📧 Email: magesh2007z@gmail.com  
 
 ---
 
